@@ -46,8 +46,8 @@ export default function ExperienceCard1() {
             className="h-8 w-8 rounded-full"
           />
           <NextImage
-            src="/images/github.png"
-            alt="github"
+            src="/images/git.png"
+            alt="git"
             width={512}
             height={512}
             className="h-8 w-8 rounded-full"

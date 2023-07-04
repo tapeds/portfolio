@@ -52,6 +52,13 @@ export default function ExperienceCard() {
             height={512}
             className="h-8 w-8 rounded-full"
           />
+          <NextImage
+            src="/images/git.png"
+            alt="git"
+            width={512}
+            height={512}
+            className="h-8 w-8 rounded-full"
+          />
         </div>
         <p className="py-3 uppercase text-[#D4D4D4]">Feb 2023 - Present</p>
       </div>

@@ -4,7 +4,7 @@ export default function Skills() {
   return (
     <div
       className="relative mx-auto flex min-h-screen max-w-[2000px] flex-col items-center justify-center text-center
-    md:text-left xl:flex-row xl:space-y-0 xl:px-10"
+    md:text-left xl:flex-row xl:space-y-0 xl:px-10 scroll-smooth"
     >
       <h3 className="absolute top-24 text-2xl uppercase tracking-[20px] text-[#D4D4D4]">
         Skills
